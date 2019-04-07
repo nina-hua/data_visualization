@@ -1,0 +1,8 @@
+COU,Country,POL,Pollutant,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags,food_waste
+BEL,Belgium,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,12.132,,,95.0
+CAN,Canada,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,20.31,,,122.53
+KOR,Korea,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,13.243,,,101.277
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,12.777999999999999,,,1095.5
+PRT,Portugal,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,6.566,,,196.95833333000002
+SWE,Sweden,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,6.859,,,86.13555709599999
+USA,United States,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,22.43,,,389.18225731258997

@@ -1,0 +1,20 @@
+COU,Country,POL,Pollutant,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags,food_waste
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1993,1993,KG_HAB,Kilograms per capita,3,Thousands,,,15.043,,,57.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1994,1994,KG_HAB,Kilograms per capita,3,Thousands,,,15.002,,,80.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1995,1995,KG_HAB,Kilograms per capita,3,Thousands,,,14.921,,,92.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1996,1996,KG_HAB,Kilograms per capita,3,Thousands,,,15.542,,,94.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1997,1997,KG_HAB,Kilograms per capita,3,Thousands,,,14.952,,,98.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1998,1998,KG_HAB,Kilograms per capita,3,Thousands,,,14.874,,,95.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,1999,1999,KG_HAB,Kilograms per capita,3,Thousands,,,13.947000000000001,,,92.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2000,2000,KG_HAB,Kilograms per capita,3,Thousands,,,13.754000000000001,,,92.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2001,2001,KG_HAB,Kilograms per capita,3,Thousands,,,13.708,,,88.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2002,2002,KG_HAB,Kilograms per capita,3,Thousands,,,13.520999999999999,,,87.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2003,2003,KG_HAB,Kilograms per capita,3,Thousands,,,13.474,,,83.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2004,2004,KG_HAB,Kilograms per capita,3,Thousands,,,13.489,,,87.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2005,2005,KG_HAB,Kilograms per capita,3,Thousands,,,13.08,,,84.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2006,2006,KG_HAB,Kilograms per capita,3,Thousands,,,12.714,,,192.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2007,2007,KG_HAB,Kilograms per capita,3,Thousands,,,12.571,,,884.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2008,2008,KG_HAB,Kilograms per capita,3,Thousands,,,12.487,,,79.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2009,2009,KG_HAB,Kilograms per capita,3,Thousands,,,12.1,,,79.0
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2010,2010,KG_HAB,Kilograms per capita,3,Thousands,,,12.777999999999999,,,1095.5
+NLD,Netherlands,GHG,Greenhouse gases,GHG_CAP,Total GHG excl. LULUCF per capita,2011,2011,KG_HAB,Kilograms per capita,3,Thousands,,,11.894,,,77.0
